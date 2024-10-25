@@ -1,5 +1,4 @@
 /* eslint-disable react/prop-types */
-// src/components/GenericDialog.jsx
 import {
       Button,
       Dialog,
