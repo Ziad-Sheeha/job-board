@@ -6,7 +6,7 @@ import Home from "./pages/Home";
 import SavedJobs from "./pages/SavedJobs.jsx";
 import Login from "./pages/Login";
 import { BookmarkProvider } from "./context/Bookmark-context.jsx";
-import JobDetails from "./pages/jobDetails.jsx";
+import JobDetails from "./pages/JobDetails.jsx";
 function App() {
       return (
             <>
